@@ -12,6 +12,9 @@ You can check out my music on [Bandcamp](http://www.benvining.bandcamp.com/), [S
 
 To buy the finished versions of my software, head to [Gumroad](http://www.gumroad.com/benvining).
 
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benthevining&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benthevining&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Technologies and tools
 ![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=Xcode&logoColor=white&color=2bbc8a)
