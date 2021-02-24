@@ -1,8 +1,6 @@
 ### Hi, I'm Ben 👋
 
-I'm an audio programmer and electronic musician in Phoenix, AZ, United States. I specialize in creating pitch shifting effects, particularly for the voice: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jIzHT1uJxA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I'm an audio programmer and electronic musician in Phoenix, AZ, United States. I specialize in creating pitch shifting effects, particularly for the [voice](https://www.youtube.com/watch?v=jIzHT1uJxA4).
 
 I got started in coding with learning [Max/MSP](http://www.cycling74.com/products/max), and I've now transitioned to coding in C++ using the [JUCE framework](http://www.juce.com/).
 
