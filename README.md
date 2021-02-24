@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/benthevining/<OWNER>/<OWNER>/headerImage.png "Header")](https://lnk.bio/Vx4K)
+![Header](https://github.com/benthevining/benthevining/blob/main/headerImage.png?raw=true)
 
 ### Hi :wave: I'm Ben :sparkles:
 
