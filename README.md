@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/benthevining/<OWNER>/<OWNER>/headerImage.png "Header")](https://lnk.bio/Vx4K)
+
 ### Hi :wave: I'm Ben :sparkles:
 
 I'm an audio programmer :computer: :neckbeard: and electronic musician :electric_plug: :musical_keyboard: :lips: in Phoenix, AZ, United States
