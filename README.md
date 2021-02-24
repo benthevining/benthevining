@@ -1,4 +1,4 @@
-![Header](https://github.com/benthevining/benthevining/blob/main/headerImage.png?raw=true)
+![Header](https://github.com/benthevining/benthevining/blob/main/assets/headerImage.png?raw=true)
 
 ### Hi :wave: I'm Ben :sparkles:
 
@@ -26,11 +26,11 @@ To buy the finished versions of my software, head to [Gumroad](http://www.gumroa
 
 <!-- Icons -->
 
-[1.1]: https://github.com/benthevining/benthevining/blob/main/twitter.png (twitter icon)
-[1.2]: https://github.com/benthevining/benthevining/blob/main/instagram.png (Instagram icon)
-[1.3]: https://github.com/benthevining/benthevining/blob/main/reddit.png (reddit icon)
-[1.4]: https://github.com/benthevining/benthevining/blob/main/facebook.png (facebook icon)
-[1.5]: https://github.com/benthevining/benthevining/blob/main/youtube.png (Youtube icon)
+[1.1]: https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png (twitter icon)
+[1.2]: https://github.com/benthevining/benthevining/blob/main/assets/icons/instagram.png (Instagram icon)
+[1.3]: https://github.com/benthevining/benthevining/blob/main/assets/icons/reddit.png (reddit icon)
+[1.4]: https://github.com/benthevining/benthevining/blob/main/assets/icons/facebook.png (facebook icon)
+[1.5]: https://github.com/benthevining/benthevining/blob/main/assets/icons/youtube.png (Youtube icon)
 
 <!-- Links -->
 
