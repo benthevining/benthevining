@@ -12,4 +12,10 @@ You can check out my music on [Bandcamp](http://www.benvining.bandcamp.com/), [S
 
 To buy the finished versions of my software, head to [Gumroad](http://www.gumroad.com/benvining).
 
+#### Technologies and tools
+![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=Xcode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G32OKV9)
