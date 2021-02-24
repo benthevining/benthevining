@@ -19,3 +19,23 @@ To buy the finished versions of my software, head to [Gumroad](http://www.gumroa
 ![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G32OKV9)
+
+<!-- Actual text -->
+
+[![Twitter][1.1]][2.1] [![Instagram][1.2]][2.2] [![Reddit][1.3]][2.3] [![Facebook][1.4]][2.4] [![YouTube][1.5]][2.5]
+
+<!-- Icons -->
+
+[1.1]: https://github.com/benthevining/benthevining/blob/main/twitter.png (twitter icon)
+[1.2]: https://github.com/benthevining/benthevining/blob/main/instagram.png (Instagram icon)
+[1.3]: https://github.com/benthevining/benthevining/blob/main/reddit.png (reddit icon)
+[1.4]: https://github.com/benthevining/benthevining/blob/main/facebook.png (facebook icon)
+[1.5]: https://github.com/benthevining/benthevining/blob/main/youtube.png (Youtube icon)
+
+<!-- Links -->
+
+[2.1]: https://twitter.com/benthevining
+[2.2]: https://www.instagram.com/benjivining/
+[2.3]: https://www.reddit.com/user/benthevining
+[2.4]: https://www.facebook.com/benviningofficial/
+[2.5]: https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ
