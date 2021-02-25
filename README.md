@@ -9,7 +9,7 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 You can check out my music on [Bandcamp](http://www.benvining.bandcamp.com/), [Spotify](http://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8?si=FrGog5JQSuGftUDOscAThg), or [SoundCloud](http://www.soundcloud.com/benvining). I'm also on [Facebook](http://www.facebook.com/benviningofficial/), [Twitter](http://www.twitter.com/benthevining), and [Instagram](http://www.instagram.com/benjivining/).
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benthevining&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ben's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benthevining&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benthevining&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies and tools
 ![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
