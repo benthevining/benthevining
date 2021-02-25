@@ -27,24 +27,12 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G32OKV9)
 
-<!-- Actual text -->
-
-[![Twitter][1.1]][2.1] [![Instagram][1.2]][2.2] [![Reddit][1.3]][2.3] [![Facebook][1.4]][2.4] [![YouTube][1.5]][2.5]
-
-<!-- Icons -->
-
-[1.1]: https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png (twitter icon)
-[1.2]: https://github.com/benthevining/benthevining/blob/main/assets/icons/instagram.png (Instagram icon)
-[1.3]: https://github.com/benthevining/benthevining/blob/main/assets/icons/reddit.png (reddit icon)
-[1.4]: https://github.com/benthevining/benthevining/blob/main/assets/icons/facebook.png (facebook icon)
-[1.5]: https://github.com/benthevining/benthevining/blob/main/assets/icons/youtube.png (Youtube icon)
-
-<!-- Links -->
-
-[2.1]: https://twitter.com/benthevining
-[2.2]: https://www.instagram.com/benjivining/
-[2.3]: https://www.reddit.com/user/benthevining
-[2.4]: https://www.facebook.com/benviningofficial/
-[2.5]: https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ
+<p align="center">
+ <a href= "https://twitter.com/benthevining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png"/></a>
+ <a href= "https://www.instagram.com/benjivining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/instagram.png"/></a>
+ <a href= "https://www.reddit.com/user/benthevining"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/reddit.png"/></a>
+ <a href= "https://www.facebook.com/benviningofficial/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/facebook.png"/></a>
+ <a href= "https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/youtube.png"/></a>
+</p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benthevining.benthevining)
