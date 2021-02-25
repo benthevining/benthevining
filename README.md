@@ -17,6 +17,8 @@ You can check out my music on [Bandcamp](http://www.benvining.bandcamp.com/), [S
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G32OKV9)
 
 <!-- Actual text -->
