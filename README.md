@@ -1,6 +1,6 @@
 ![Header](https://github.com/benthevining/benthevining/blob/main/assets/headerImage.png?raw=true)
  
-### Hi :wave: I'm Ben :sparkles:
+## Hi :wave: I'm Ben :sparkles:
 
 I'm an audio programmer and electronic musician in Phoenix, AZ, United States.
 
