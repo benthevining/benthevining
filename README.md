@@ -15,8 +15,6 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benthevining.benthevining)
-
 <details>
   <summary>More about me :point_left:</summary>
  Both of my parents are classically trained musicians, and I actually went to college for music composition. When I became interested in producing electronic music, I quicky gained interest in developing my own digital instruments and effects. I started by learning Max/MSP, and eventually found the need for the low-level control provided by C++. Before I knew it, I was no longer a musician learning a bit of code so I could get back to music-making: I was a programmer.
