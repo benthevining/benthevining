@@ -25,14 +25,16 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&redirect=true)
  </details>
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G32OKV9)
-
 <p align="center">
  <a href= "https://twitter.com/benthevining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png"/></a>
  <a href= "https://www.instagram.com/benjivining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/instagram.png"/></a>
  <a href= "https://www.reddit.com/user/benthevining"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/reddit.png"/></a>
  <a href= "https://www.facebook.com/benviningofficial/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/facebook.png"/></a>
  <a href= "https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/youtube.png"/></a>
+</p>
+
+<p align="center">
+ <a href= "https://ko-fi.com/G2G32OKV9"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"/></a>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=benthevining.benthevining)
