@@ -17,7 +17,8 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 
 <details>
   <summary>More about me :point_left:</summary>
- Both of my parents are classically trained musicians, and I actually went to college for music composition. When I became interested in producing electronic music, I quicky gained interest in developing my own digital instruments and effects. I started by learning Max/MSP, and eventually found the need for the low-level control provided by C++. Before I knew it, I was no longer a musician learning a bit of code so I could get back to music-making: I was a programmer.
+ Both of my parents are classically trained musicians, and I actually went to college for music composition. 
+ When I became interested in producing electronic music, I quicky gained interest in developing my own digital instruments and effects. I started by learning Max/MSP, and eventually found the need for the low-level control provided by C++. Before I knew it, I was no longer a musician learning a bit of code so I could get back to music making -- I was a programmer.
  
  I do still make music from time to time; you can check it out on [Bandcamp](http://www.benvining.bandcamp.com/), [Spotify](http://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8?si=FrGog5JQSuGftUDOscAThg), or [SoundCloud](http://www.soundcloud.com/benvining).
  
