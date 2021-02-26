@@ -1,4 +1,4 @@
-name: Basic repo maintenence & utils
+name: Check for dead links
 
 on:
   workflow_dispatch:
