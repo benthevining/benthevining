@@ -25,6 +25,15 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
  ##### Recently played on Spotify:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&redirect=true)
  </details>
+ 
+ <details>
+   <summary>More about my work :point_left:</summary>
+  I'm a real-time audio programmer, mainly working with C++ and the JUCE framework. I'm fascinated with pitch shifting algorithms and vocal processing techniques. My current major project is a vocal harmonizer instrument called Imogen.
+ 
+ ##### Work I'm proud of:
+ [![Imogen repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=imogen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Pitch detector repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=Pitch-detector&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </details>
 
 <p align="center">
  <a href= "https://twitter.com/benthevining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png"/></a>
