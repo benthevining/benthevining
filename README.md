@@ -17,6 +17,7 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 
 <details>
   <summary>More about me :point_left:</summary>
+ 
  Both of my parents are classically trained musicians, and I actually went to college for music composition. 
  When I became interested in producing electronic music, I quicky gained interest in developing my own digital instruments and effects. I started by learning Max/MSP, and eventually found the need for the low-level control provided by C++. Before I knew it, I was no longer a musician learning a bit of code so I could get back to music making -- I was a programmer.
  
@@ -26,8 +27,10 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&redirect=true)
  </details>
  
+ 
  <details>
    <summary>More about my work :point_left:</summary>
+ 
   I'm a real-time audio programmer, mainly working with C++ and the JUCE framework. I'm fascinated with pitch shifting algorithms and vocal processing techniques. My current major project is a vocal harmonizer instrument called Imogen.
  
  ##### Work I'm proud of:
