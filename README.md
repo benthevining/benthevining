@@ -24,7 +24,7 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
  I do still make music from time to time; you can check it out on [Bandcamp](http://www.benvining.bandcamp.com/), [Spotify](http://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8?si=FrGog5JQSuGftUDOscAThg), or [SoundCloud](http://www.soundcloud.com/benvining).
  
  ##### Recently played on Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=novatorem)](https://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8?si=p_pWRu3XRMqKyP7PUX0O0g)
  </details>
  
  
@@ -34,8 +34,8 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
   I'm a real-time audio programmer, mainly working with C++ and the JUCE framework. I'm fascinated with pitch shifting algorithms and vocal processing techniques. My current major project is a vocal harmonizer instrument called Imogen.
  
  ##### Work I'm proud of:
- [![Imogen repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=imogen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![Pitch detector repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=Pitch-detector&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Imogen repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=imogen&theme=tokyonight)](https://github.com/benthevining/imogen)
+ [![Pitch detector repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=Pitch-detector&theme=tokyonight)](https://github.com/benthevining/Pitch-detector)
   </details>
 
 <p align="center">
