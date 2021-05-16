@@ -36,7 +36,6 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
  ##### Work I'm proud of:
  [![Imogen repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=imogen&theme=tokyonight)](https://github.com/benthevining/imogen)
  [![JuceSynthBase repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=JuceSynthBase&theme=tokyonight)](https://github.com/benthevining/imogen)
- [![CMakeWrapper repo](https://github-readme-stats.vercel.app/api/pin/?username=benthevining&repo=JUCE-CmakeWrapper&theme=tokyonight)](https://github.com/benthevining/Pitch-detector)
   </details>
 
 <p align="center">
