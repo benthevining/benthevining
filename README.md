@@ -2,7 +2,7 @@
  
 ## Hi :wave: I'm Ben :sparkles:
 
-I'm an audio programmer and electronic musician in Phoenix, AZ, United States.
+I'm an audio programmer and electronic musician in Chicago, IL, United States.
 
 I specialize in creating pitch shifting effects, particularly for the [voice](https://www.youtube.com/watch?v=jIzHT1uJxA4) :microphone: :sound:
 
