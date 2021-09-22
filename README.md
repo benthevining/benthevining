@@ -7,7 +7,7 @@ I'm an audio programmer and electronic musician in Phoenix, AZ, United States.
 I specialize in creating pitch shifting effects, particularly for the [voice](https://www.youtube.com/watch?v=jIzHT1uJxA4) :microphone: :sound:
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benthevining&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ben's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benthevining&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benthevining&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Technologies and tools
 ![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
