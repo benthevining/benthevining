@@ -31,7 +31,6 @@ I specialize in creating pitch shifting effects, particularly for the [voice](ht
 <p align="center">
  <a href= "https://twitter.com/benthevining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png"/></a>
  <a href= "https://www.instagram.com/benjivining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/instagram.png"/></a>
- <a href= "https://www.reddit.com/user/benthevining"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/reddit.png"/></a>
  <a href= "https://www.facebook.com/benviningofficial/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/facebook.png"/></a>
  <a href= "https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/youtube.png"/></a>
 </p>
