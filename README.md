@@ -1,40 +1,86 @@
-![Header](https://github.com/benthevining/benthevining/blob/main/assets/headerImage.png?raw=true)
- 
-## Hi :wave: I'm Ben :sparkles:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-wave-dark.svg">
+  <img alt="Ben Vining: C++, audio software, build systems & CI" src="assets/header-wave-light.svg">
+</picture>
 
-I'm an audio programmer and electronic musician in Chicago, IL, United States.
+I write C++ for the audio industry, mostly as an independent contractor: plugins, desktop apps, and the build systems & CI that ship them. Six years in, based in Chicago.
 
-I specialize in creating pitch shifting effects, particularly for the [voice](https://www.youtube.com/watch?v=jIzHT1uJxA4) :microphone: :sound:
+### Now
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benthevining&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ben's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benthevining&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### Technologies and tools
-![](https://img.shields.io/badge/OS-MacOSX-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-XCode-informational?style=flat&logo=Xcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+**CarbonQ** · [Mastering The Mix](https://www.masteringthemix.com)
+
+A mastering EQ plugin. The instances on each bus talk to each other to recreate the tonal balance of a reference mix.
+
+`released Oct 2026` `~1,800 licenses`
+
+</td>
+<td width="50%" valign="top">
+
+**EQ Academy** · [Mastering The Mix](https://www.masteringthemix.com)
+
+A free, game-like desktop app that teaches EQ by altering a reference mix and scoring you on recreating the original.
+
+`released Jul 2025` `~20,000 users`
+
+</td>
+</tr>
+</table>
+
+I'm the sole developer on both. They're built on a shared C++ framework I designed for the product line (inter-plugin communication, instance registration and a shared UI component system).
+
+### Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+[**BenBot**](https://github.com/benthevining/BenBot)<br>
+UCI chess engine in C++23. Magic bitboards, threaded search, SPRT tested. Around 1700-1800 Elo.
+
+</td>
+<td width="33%" valign="top">
+
+[**linfra**](https://github.com/benthevining/linfra)<br>
+Shared CMake infrastructure for cross-compiling & testing C++ on desktop, mobile and WebAssembly.
+
+</td>
+<td width="33%" valign="top">
+
+[**plugin-cancellation-testing**](https://github.com/benthevining/plugin-cancellation-testing)<br>
+CMake module that registers audio cancellation tests for plugins with CTest.
+
+</td>
+</tr>
+</table>
+
+### Clients
+
+[Leapwing Audio](https://www.leapwingaudio.com) · iZotope (via Fielding DSP) · [Code Garden / Node Audio](https://node.audio) · InMusic Brands · [Foleys Finest Audio](https://foleysfinest.com) · reFX · Melatonin · Audioloom
+
+### Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-24292f?style=flat-square&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-24292f?style=flat-square&logo=cmake&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-24292f?style=flat-square&logo=juce&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
+![Catch2](https://img.shields.io/badge/Catch2-24292f?style=flat-square)
 
 <details>
-  <summary>More about me :point_left:</summary>
- 
- Both of my parents are classically trained musicians, and I actually went to college for music composition. 
- When I became interested in producing electronic music, I quicky gained interest in developing my own digital instruments and effects. I started by learning Max/MSP, and eventually found the need for the low-level control provided by C++. Before I knew it, I was no longer a musician learning a bit of code so I could get back to music making -- I was a programmer.
- 
- I do still make music from time to time; you can check it out on [Bandcamp](http://www.benvining.bandcamp.com/), [Spotify](http://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8?si=FrGog5JQSuGftUDOscAThg), or [SoundCloud](http://www.soundcloud.com/benvining).
- 
- ##### Recently played on Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=benviningcomposer&cover_image=true&theme=novatorem)](https://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8?si=p_pWRu3XRMqKyP7PUX0O0g)
- </details>
- 
+<summary><b>Background</b></summary>
+<br>
 
-<p align="center">
- <a href= "https://twitter.com/benthevining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/twitter.png"/></a>
- <a href= "https://www.instagram.com/benjivining/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/instagram.png"/></a>
- <a href= "https://www.facebook.com/benviningofficial/"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/facebook.png"/></a>
- <a href= "https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ"><img src="https://github.com/benthevining/benthevining/blob/main/assets/icons/youtube.png"/></a>
-</p>
+I studied music composition at Arizona State, and spent a few years in professional theatre as a stage manager and lighting technician. I got into code through electronic music: I built my own instruments & effects in Max/MSP, then moved to C++ when I needed more control. At some point I stopped being a musician who wrote a bit of code and became a programmer.
 
-<p align="center">
- <a href= "https://ko-fi.com/G2G32OKV9"><img src="https://www.ko-fi.com/img/githubbutton_sm.svg"/></a>
-</p>
+I still make music now and then: [Bandcamp](https://benvining.bandcamp.com) · [Spotify](https://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8) · [SoundCloud](https://soundcloud.com/benvining)
+
+</details>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-vining-264377242)
+[![YouTube](https://img.shields.io/badge/YouTube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ)
