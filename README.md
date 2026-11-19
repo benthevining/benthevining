@@ -1,9 +1,27 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-wave-dark.svg">
-  <img alt="Ben Vining: C++, audio software, build systems & CI" src="assets/header-wave-light.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-spectrum-dark.svg">
+    <img alt="Ben Vining" src="assets/header-spectrum-light.svg" width="100%">
+  </picture>
+</p>
 
-I write C++ for the audio industry, mostly as an independent contractor: plugins, desktop apps, and the build systems & CI that ship them. Six years in, based in Chicago.
+<p align="center">
+  I write C++ for the audio industry, mostly as an independent contractor: plugins, desktop apps, and the build systems &amp; CI that ship them. Six years in, based in Chicago.<br>
+  <a href="https://linkedin.com/in/ben-vining-264377242">LinkedIn</a> ·
+  <a href="https://benvining.bandcamp.com">Music</a> ·
+  <a href="https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ">YouTube</a>
+</p>
+
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-24292f?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-24292f?style=flat-square&logo=cmake&logoColor=white">
+  <img alt="JUCE" src="https://img.shields.io/badge/JUCE-24292f?style=flat-square&logo=juce&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Catch2" src="https://img.shields.io/badge/Catch2-24292f?style=flat-square">
+</p>
 
 ### Now
 
@@ -61,17 +79,6 @@ CMake module that registers audio cancellation tests for plugins with CTest.
 
 [Leapwing Audio](https://www.leapwingaudio.com) · iZotope (via Fielding DSP) · [Code Garden / Node Audio](https://node.audio) · InMusic Brands · [Foleys Finest Audio](https://foleysfinest.com) · reFX · Melatonin · Audioloom
 
-### Tools
-
-![C++](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-24292f?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-24292f?style=flat-square&logo=cmake&logoColor=white)
-![JUCE](https://img.shields.io/badge/JUCE-24292f?style=flat-square&logo=juce&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
-![Catch2](https://img.shields.io/badge/Catch2-24292f?style=flat-square)
-
 <details>
 <summary><b>Background</b></summary>
 <br>
@@ -81,6 +88,3 @@ I studied music composition at Arizona State, and spent a few years in professio
 I still make music now and then: [Bandcamp](https://benvining.bandcamp.com) · [Spotify](https://open.spotify.com/artist/2UA73qR4E3nNPjjf8CphX8) · [SoundCloud](https://soundcloud.com/benvining)
 
 </details>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-vining-264377242)
-[![YouTube](https://img.shields.io/badge/YouTube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQCxlghSGAa9BYdSciCPoQQ)
